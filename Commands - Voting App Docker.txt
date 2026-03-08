@@ -1,5 +1,5 @@
 yum install git -y
-git clone https://github.com/RahulKakkarath/Voting-App-Docker.git
+git clone https://https://github.com/rucha041513/Voting-App-Docker.git
 yum install docker -y
 systemctl start docker
 cd Voting-App-Docker/vote
@@ -21,3 +21,4 @@ Result     -: 2000
 
 
 Courtsey: Ashiq Ummathoor
+
